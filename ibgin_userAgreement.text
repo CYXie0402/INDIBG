@@ -2,7 +2,7 @@
     "code": "200",
     "result": "success!",
     "type":"0",
-    "userAgreementCotnet":"Welcome to our app. We are committed to providing you with satisfactory service.  \n\nYou can read the complete 《User Agreement》 to understand what information we will use about you. \n\nWe will strictly follow the requirements to protect your private information. If you agree to the above, please click the “Confirm” button to continue using our services.!",
+    "userAgreementCotnet":"https://www.i08io.com?lang=en",
 "textColor":"FFFFFF",
 "agr_title":"User Agreement",
 "agr_time":"1702180234",
